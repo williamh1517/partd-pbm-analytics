@@ -1,0 +1,15 @@
+services:
+  db:
+    image: postgres:17
+    container_name: partd-pg
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+      POSTGRES_DB: partd
+    ports:
+      - "5433:5432"   # 5433 on the host, so it can run next to another local Postgres
+    volumes:
+      - partd_data:/var/lib/postgresql/data
+
+volumes:
+  partd_data:
