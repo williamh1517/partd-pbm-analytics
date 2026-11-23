@@ -1,0 +1,21 @@
+therapeutic_area,drug_group,cost_musd,pct_of_spend,change_musd,pct_cost_growth,pct_claims_growth
+Other / unmapped,Other / unmapped,1282.7,20.5,51.6,4.2,4.2
+Cardiovascular,Anticoagulants,724.6,11.6,60.0,9.0,8.7
+Oncology,Oral oncology,691.7,11.0,124.1,21.9,12.6
+Diabetes,GLP-1 / GIP agonists,604.5,9.7,141.8,30.6,42.4
+Diabetes,SGLT2 inhibitors,443.9,7.1,84.7,23.6,36.4
+Immunology,"Immunology (RA, psoriasis, IBD)",415.6,6.6,59.1,16.6,9.7
+Respiratory,Inhaled COPD / asthma,312.7,5.0,-39.4,-11.2,5.3
+Diabetes,DPP-4 inhibitors,208.4,3.3,-17.7,-7.8,1.7
+Cardiovascular,Statins & lipid,159.4,2.5,-12.2,-7.1,9.0
+Neurology & mental health,Antipsychotics,129.1,2.1,5.7,4.6,6.3
+Diabetes,Insulins,126.2,2.0,-135.7,-51.8,-1.0
+Cardiovascular,Heart failure (ARNI),104.4,1.7,15.2,17.0,23.4
+Infectious disease,HIV,93.2,1.5,-8.5,-8.4,-5.7
+Endocrine & other,Urology,92.7,1.5,0.9,1.0,8.5
+Cardiovascular,Cardiomyopathy,76.5,1.2,46.4,153.9,154.3
+Neurology & mental health,Movement disorders,61.6,1.0,12.0,24.2,12.5
+Endocrine & other,Eye care,61.4,1.0,-6.9,-10.1,4.4
+Gastrointestinal,Other GI,56.2,0.9,-1.9,-3.3,7.6
+Respiratory,Pulmonary fibrosis,54.2,0.9,7.1,15.1,16.7
+Neurology & mental health,Opioid analgesics,45.4,0.7,-5.0,-9.9,2.0

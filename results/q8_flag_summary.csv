@@ -1,0 +1,5 @@
+flag,prescribers,claims,cost_musd,excess_cost_musd
+Both flags,154,280054.0,281.6,237.5
+High brand rate only,386,644663.0,205.7,120.1
+High cost per claim only,640,1162901.0,802.1,658.4
+Not flagged,14343,32774035.0,4727.4,1165.2

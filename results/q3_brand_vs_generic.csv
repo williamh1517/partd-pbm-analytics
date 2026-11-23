@@ -1,0 +1,5 @@
+data_year,product_type,claims,pct_of_claims,cost_musd,pct_of_cost,cost_per_claim
+2023,Brand,4337062,12.8,5066.4,85.0,1168.0
+2023,Generic,29596473,87.2,891.9,15.0,30.0
+2024,Brand,4611356,12.8,5506.4,87.9,1194.0
+2024,Generic,31513642,87.2,757.2,12.1,24.0

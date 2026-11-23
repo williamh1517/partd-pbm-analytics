@@ -1,0 +1,21 @@
+spend_rank,brnd_name,gnrc_name,is_brand,claims,cost_musd,cost_per_claim,pct_of_spend,cum_pct_of_spend
+1,Eliquis,Apixaban,True,629022,555.6,883.0,8.9,8.9
+2,Ozempic,Semaglutide,True,225688,304.9,1351.0,4.9,13.7
+3,Jardiance,Empagliflozin,True,239087,252.7,1057.0,4.0,17.8
+4,Farxiga,Dapagliflozin Propanediol,True,172395,172.5,1000.0,2.8,20.5
+5,Xarelto,Rivaroxaban,True,172201,166.2,965.0,2.7,23.2
+6,Mounjaro,Tirzepatide,True,113770,148.0,1301.0,2.4,25.5
+7,Januvia,Sitagliptin Phosphate,True,143499,135.3,943.0,2.2,27.7
+8,Trelegy Ellipta,Fluticasone/Umeclidin/Vilanter,True,153904,129.0,838.0,2.1,29.8
+9,Entresto,Sacubitril/Valsartan,True,94197,104.4,1109.0,1.7,31.4
+10,Trulicity,Dulaglutide,True,70828,95.8,1353.0,1.5,33.0
+11,Biktarvy,Bictegrav/Emtricit/Tenofov Ala,True,22420,91.5,4082.0,1.5,34.4
+12,Revlimid,Lenalidomide,True,4849,83.0,17116.0,1.3,35.7
+13,Humira(Cf) Pen,Adalimumab,True,8640,73.4,8497.0,1.2,36.9
+14,Vyndamax,Tafamidis,True,2790,71.3,25572.0,1.1,38.1
+15,Enbrel Sureclick,Etanercept,True,7732,63.3,8192.0,1.0,39.1
+16,Xtandi,Enzalutamide,True,4469,60.3,13482.0,1.0,40.0
+17,Jakafi,Ruxolitinib Phosphate,True,3443,57.4,16659.0,0.9,40.9
+18,Pomalyst,Pomalidomide,True,2758,57.3,20765.0,0.9,41.9
+19,Ibrance,Palbociclib,True,3595,56.1,15606.0,0.9,42.8
+20,Myrbetriq,Mirabegron,True,77269,54.7,708.0,0.9,43.6
